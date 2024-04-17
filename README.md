@@ -1,7 +1,6 @@
 ### Olá, eu sou o André Dias! 😁👋
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDRE-ZIUL&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDRE-ZIUL&hide_progress=true)
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ANDRE-ZIUL&theme=radical&mode=weekly" />
