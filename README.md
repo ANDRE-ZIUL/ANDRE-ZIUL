@@ -35,4 +35,4 @@
 
   ##
 
-![snake gif](https://github.com/ANDRE-ZIUL/ANRE-ZIUL/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ANDRE-ZIUL/ANDRE-ZIUL/blob/output/github-contribution-grid-snake-dark.svg)
