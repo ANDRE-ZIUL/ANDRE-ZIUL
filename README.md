@@ -1,5 +1,6 @@
 ### Hi, I'm André Dias! 😁👋
-##I am a fullstack developer and currently work with Typescript, Javascript, React and Node.JS
+
+<label>I am a fullstack developer and currently work with Typescript, Javascript, React and Node.JS</label>
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ANDRE-ZIUL&theme=dark&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ANDRE-ZIUL&show_icons=true&theme=dark&layout=compact" />
