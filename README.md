@@ -1,11 +1,11 @@
 ### Hi, I'm André Dias! 😁👋
 
 <label>
-  At 21 years old and in the 7th semester of the Information Systems course, I'm on an exciting journey through the universe of technology. I'm a fullstack developer, immersed in the world of code, where every line written is an opportunity to create something extraordinary.<br>
+  At 21 years old and in the 7th semester of the Information Systems course, I'm on an exciting journey through the universe of technology. I'm a fullstack developer, immersed in the world of code, where every line written is an opportunity to create something extraordinary.<br><br>
 
-  💻 Working hard to turn ideas into reality in the digital world.<br>
-  🚀 Constantly seeking challenges that allow me to expand my knowledge and skills.<br>
-  💡 I believe that every problem is a disguised opportunity, ready to be discovered and solved.<br>
+  💻 Working hard to turn ideas into reality in the digital world.<br><br>
+  🚀 Constantly seeking challenges that allow me to expand my knowledge and skills.<br><br>
+  💡 I believe that every problem is a disguised opportunity, ready to be discovered and solved.<br><br>
 </label>
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ANDRE-ZIUL&theme=dark&mode=weekly" />
