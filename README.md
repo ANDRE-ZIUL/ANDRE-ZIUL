@@ -1,7 +1,7 @@
 ### Hi, I'm André Dias! 😁👋
 
 <label>
-  At 21 years old and in the 8th period of the Information Systems course, I'm on an exciting journey through the universe of technology. I'm a fullstack developer, immersed in the world of code, where every line written is an opportunity to create something extraordinary.<br><br>
+  At 22 years old and a Bachelor in Information Systems, I'm on an exciting journey through the world of technology. As a full-stack developer, I dive deep into the world of code, where every line written is a step toward creating something extraordinary. 🚀<br><br>
 
   💻 Working hard to turn ideas into reality in the digital world.<br><br>
   🚀 Constantly seeking challenges that allow me to expand my knowledge and skills.<br><br>
