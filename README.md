@@ -1,12 +1,14 @@
-<h2 align="center">👋 Welcome to my GitHub, nice to meet you! 👋</h2>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=André%20Dias&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Bachelor%20in%20Information%20Systems%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
 <p align="center">
-  <img src="https://github.com/ANDRE-ZIUL/ANDRE-ZIUL/blob/main/assets/cartoon.webp?raw=true" width="250" alt="André Dias Cartoon" style="border-radius: 20%;" />
+  <img src="https://github.com/ANDRE-ZIUL/ANDRE-ZIUL/blob/main/assets/cartoon.jpg?raw=true" width="100%" alt="André Dias Cartoon" />
 </p>
 
-<p align="center">
-  <strong>💻 Full-Stack Developer | 🎓 Bachelor in Information Systems | 🚀 Tech Enthusiast</strong>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2493BF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+André+Dias!+👋;🚀+Welcome+to+my+GitHub!+🚀;✌️Nice+to+meet+you!✌️;" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -78,9 +80,9 @@ As a full-stack developer, I dive deep into the world of code — every line wri
 
 ---
 
-<p align="center">
-  ✨ “Every great idea starts with a simple line of code.” ✨
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=✨%20Every%20great%20idea%20starts%20with%20a%20simple%20line%20of%20code!%20✨&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
 
 ##
 
