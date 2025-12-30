@@ -50,8 +50,7 @@ As a full-stack developer, I dive deep into the world of code — every line wri
   <img align="center" alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg
-  ">
+  <img align="center" alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
   <!-- Databases -->
   <img align="center" alt="MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
