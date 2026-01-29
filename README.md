@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-At 22 years old and a Bachelor in Information Systems, I'm on an exciting journey through the world of technology.  
+At 23 years old and a Bachelor in Information Systems, I'm on an exciting journey through the world of technology.  
 As a full-stack developer, I dive deep into the world of code — every line written is a step toward creating something extraordinary.
 
 ✨ **A few things about me:**
