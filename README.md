@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/ANDRE-ZIUL/ANDRE-ZIUL/blob/main/assets/cartoon.jpg?raw=true" width="100%" alt="André Dias Cartoon" />
+  <img src="https://github.com/ANDRE-ZIUL/ANDRE-ZIUL/blob/main/assets/cartoon.jpeg?raw=true" width="100%" alt="André Dias Cartoon" />
 </p>
 
 <div align="center">
